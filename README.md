@@ -144,21 +144,11 @@
 	
 </p>
 
-<hr/>
 
-* Credit: [Rezaesfand](https://github.com/Rezaesfand)
-* Last Edited on: 5/08/2022
-
-
-41/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/reza_sfand"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
 
 <hr/>
 
-* Credit: [Rezaesfand](https://github.com/reza-sfandiari)
-* Last Edited on: 5/08/2022
+* Credit: [reza-sfandiari](https://github.com/reza-sfandiari)
+* Last Edited on: 5/17/2025
 
 
