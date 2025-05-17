@@ -1,4 +1,4 @@
-
+   
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/reza-esfandiari-8b14661" ><h1 align="center">Hi , I'm Reza Esfandiari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></a>
 </p>
@@ -103,11 +103,11 @@
 ## 📊 Github Stats (Expand to View) 
 
 
-<details> 
+<!-- <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="center"> -->
+    <!-- <a href="https://github.com/reza-sfandiari"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a> -->
 <br/>
   &nbsp;
 <!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/> -->
@@ -119,8 +119,6 @@
 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
    <br>
@@ -150,5 +148,4 @@
 
 * Credit: [reza-sfandiari](https://github.com/reza-sfandiari)
 * Last Edited on: 5/17/2025
-
 
