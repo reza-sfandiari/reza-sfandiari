@@ -158,7 +158,7 @@
 
 <hr/>
 
-* Credit: [Rezaesfand](https://github.com/Rezaesfand)
+* Credit: [Rezaesfand](https://github.com/reza-sfandiari)
 * Last Edited on: 5/08/2022
 
 
